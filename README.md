@@ -461,7 +461,7 @@ SOFTWARE.
 
 - GitHub: [@dinushkatharidu](https://github.com/dinushkatharidu)
 - LinkedIn: [Dinushka Tharidu](https://linkedin.com/in/dinushkatharidu)
-- Email: dinushka@example.com
+- Email: asdinushkatharidu@gmail.com
 
 ---
 
